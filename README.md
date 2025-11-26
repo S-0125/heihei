@@ -1,4 +1,3 @@
-(https://github.com/user-attachments/files/23772441/1.cpp)
 #include<bits/stdc++.h>
 using namespace std;
  int main(){
